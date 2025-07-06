@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(135deg, #0f0f0f, #1e1e1e);
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 15px 0;
+}
+
+a {
+  color: #00ff8b;
+  font-size: 1.5em;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #ffffff;
+}
+add moods.css styling
